@@ -1,3 +1,5 @@
+<!-- Ejercicio 1. Script que muestre el mensaje Hola Mundo entrecomillado. -->
+
 <?php 
 echo "'Hola mundo'"; 
 echo '<br>';
